@@ -13,7 +13,7 @@ timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://20180608testhexo.com
+url: https://dj0rdan011.github.io/hexoblogtest/
 root: hexoblogtest
 permalink: :year/:month/:day/:title/
 permalink_defaults:
